@@ -2,5 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Nibbler/bin/Debug
-/Nibbler/obj/Debug
+/Nibbler/bin
+/Nibbler/obj
